@@ -1,0 +1,24 @@
+h1 {
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    border-left: 4px solid #47e1c2;
+    padding: 2%;
+}
+.name{
+    color:#479ee1;
+}
+.half-width{
+    width: 100%;
+    padding: 5%;
+}
+.btn-li{
+    border: 4px;
+    border-radius: 5px;
+    background-image: linear-gradient(#3897db, #54a0d6);
+    color: #fff;
+    font-size: 10px;
+    font-weight: 900px;
+    margin: 5px ;
+    padding: 8px;
+    text-decoration: none;
+  }
