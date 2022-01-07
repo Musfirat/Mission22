@@ -4,11 +4,19 @@ h1 {
     border-left: 4px solid #47e1c2;
     padding: 2%;
 }
+body{
+    background-color: #f3e0ff;
+}
 .name{
     color:#479ee1;
 }
 .half-width{
     width: 100%;
+    padding: 5%;
+}
+
+.half-width img{
+    width: 80%;
     padding: 5%;
 }
 .btn-li{
@@ -22,3 +30,6 @@ h1 {
     padding: 8px;
     text-decoration: none;
   }
+section{
+    display: flex;
+}
