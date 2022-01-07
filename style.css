@@ -4,6 +4,28 @@ h1 {
     border-left: 4px solid #47e1c2;
     padding: 2%;
 }
+h2{
+    color: #1b0936;
+    font-size: 40px;
+    font-weight: 40px;
+    font-family: Georgia, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h3{
+    margin: 2%;
+ font-size: 27px;   
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ padding-left: 5%;
+}
+
+h4{
+    font-size: 12px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 5%;
+    font-weight: 100;
+
+}
 body{
     background-color: #f3e0ff;
 }
@@ -32,4 +54,42 @@ body{
   }
 section{
     display: flex;
+}
+.box{
+    width: 25%;
+    height: 35%;
+   border: 2px;
+   border-radius: 20px;
+   background-color: #90afe6;
+   font-size: 12px;
+   font-weight: 300px;
+   margin: 2%;
+   padding-left:2%;;
+}
+.box2{
+    width: 25%;
+    height: 35%;
+   border: 2px;
+   border-radius: 20px;
+   background-color: #ffc5fd;
+   font-size: 12px;
+   font-weight: 300px;
+   margin: 2%;
+   padding-left:2%;;
+}
+.box3{
+    width: 25%;
+    height: 35%;
+   border: 2px;
+   border-radius: 20px;
+   background-color:#EFF299;
+   font-size: 12px;
+   font-weight: 300px;
+   margin: 2%;
+   padding-left:2%;;
+}
+.box img{
+    width: 35%;
+    margin: 3%;
+    
 }
