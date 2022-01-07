@@ -35,21 +35,23 @@ body{
 .half-width{
     width: 100%;
     padding: 5%;
+    margin: 10px;
 }
 
 .half-width img{
     width: 80%;
     padding: 5%;
+
 }
 .btn-li{
     border: 4px;
     border-radius: 5px;
     background-image: linear-gradient(#3897db, #54a0d6);
     color: #fff;
-    font-size: 10px;
+    font-size: 15px;
     font-weight: 900px;
-    margin: 5px ;
-    padding: 8px;
+    margin: 1px ;
+    padding: 10px;
     text-decoration: none;
   }
 section{
@@ -97,6 +99,63 @@ section{
     width: 60%;
     padding: 3%;
 }
-.works{
-    
+.works h5{
+    font-weight: 300;
+    font-size: 20px;
+}
+.works p{
+    padding-top: 5% ;
+    font-weight: 800;
+    font-size: 40px;
+    font-family: verdana ;
+}
+
+.works2 p{
+    padding-left: 10% ;
+    font-weight: 800;
+    font-size: 35px;
+    font-family: verdana ;
+}
+
+.works2 img{
+    width: 50%;
+    padding:5%;
+
+}
+.works2 p{
+    padding-right: 15%;
+    font-weight: 800;
+    font-size: 35px;
+    font-family: verdana ;
+
+}
+.works2 h5{
+    font-weight: 300;
+    font-size: 20px;
+    padding-left: 10% ;
+}
+
+.btn1{
+    border: 4px;
+    border-radius: 5px;
+    background-image: linear-gradient(#3897db, #54a0d6);
+    color: #fff;
+    font-size: 15px;
+    font-weight: 900px;
+    margin: 3px ;
+    padding: 10px;
+    text-decoration: none;
+
+}
+.btn2{
+    border: 4px;
+    border-radius: 5px;
+    background-image: linear-gradient(#3897db, #54a0d6);
+    color: #fff;
+    font-size: 15px;
+    font-weight: 900px;
+    margin: 9% ;
+    padding:10px;
+    text-decoration: none;
+
 }
