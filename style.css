@@ -159,3 +159,16 @@ section{
     text-decoration: none;
 
 }
+footer{
+    font-family: showcard gothic;
+    background-color:#222c3f ;
+    font-size: 30%;
+    width: 100%;
+    padding: 3%;
+    text-align: center;
+}
+footer h3{
+    font-size: 12px;
+    text-align: center;
+    padding-right: 5%;
+}
