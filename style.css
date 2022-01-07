@@ -161,15 +161,15 @@ section{
 
 }
 footer{
-    font-family: showcard gothic;
+    font-family: snap itc;
     background-color:#222c3f ;
-    font-size: 30%;
+    font-size: 50%;
     width: 100%;
     padding: 3%;
     text-align: center;
 }
 footer h3{
-    font-size: 12px;
+    font-size: 15%;
     text-align: center;
     padding-right: 5%;
 }
